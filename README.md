@@ -6,6 +6,8 @@ easy to run via docker
 
 ----
 ### 启动方式
+0. 免费注册科大讯飞账号，并领取免费token: https://www.xfyun.cn
+
 1. configs/config.py中填入科大讯飞接口的鉴权信息，https://www.xfyun.cn/doc/spark/Web.html
 ```py
 SPARK_ID = 'xxxxxxxx'
